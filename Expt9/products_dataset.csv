@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Price
+101,Laptop,Electronics,55000
+102,Mobile,Electronics,25000
+103,Chair,Furniture,5000
+104,Table,Furniture,7000
+105,Notebook,Stationery,100
+106,Pen,Stationery,20
+107,Rice,Groceries,1200
+108,Oil,Groceries,1500
+109,Shirt,Clothing,900
+110,Jeans,Clothing,1500
