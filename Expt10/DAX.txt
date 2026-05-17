@@ -1,0 +1,7 @@
+Total Sales Measure = SUM('Total Sales'[Sales])
+Total Profit = SUM('Total Sales'[Profit])
+Average Sales = AVERAGE('Total Sales'[Sales])
+Maximum Sales = MAX('Total Sales'[Sales])
+Total Quantity = SUM('Total Sales'[Quantity])
+Profit Percentage = 
+('Total Sales'[Profit] / 'Total Sales'[Sales]) * 100
