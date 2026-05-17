@@ -1,0 +1,101 @@
+Sales_ID,Product_Name,Category,City,Region,Sales,Profit,Quantity,Order_Date,Payment_Mode
+1,Laptop,Electronics,Kolkata,North,2753,410.14,3,2025-01-27,Debit Card
+2,Laptop,Electronics,Mumbai,South,1267,182.1,9,2025-06-04,Debit Card
+3,Table,Furniture,Kolkata,West,2778,727.52,1,2025-02-10,Credit Card
+4,Shirt,Clothing,Mumbai,West,2263,659.53,6,2025-01-27,Cash
+5,Jeans,Clothing,Mumbai,West,2666,696.96,8,2025-05-18,Cash
+6,Pen,Stationery,Kolkata,South,3462,745.96,2,2025-01-12,Credit Card
+7,Laptop,Electronics,Delhi,South,1327,233.59,8,2025-06-12,Credit Card
+8,Shirt,Clothing,Kolkata,South,2687,645.86,2,2025-06-05,UPI
+9,Table,Furniture,Kolkata,East,3608,555.59,9,2025-02-26,Cash
+10,Chair,Furniture,Chennai,East,3084,555.84,2,2025-02-24,UPI
+11,Oil,Groceries,Kolkata,East,4258,547.47,3,2025-03-05,Debit Card
+12,Pen,Stationery,Bangalore,North,3465,498.49,3,2025-05-11,Cash
+13,Laptop,Electronics,Mumbai,West,1810,467.73,7,2025-06-02,Debit Card
+14,Pen,Stationery,Kolkata,North,4834,726.47,9,2025-01-03,Credit Card
+15,Shirt,Clothing,Kolkata,East,2904,542.91,8,2025-01-01,UPI
+16,Notebook,Stationery,Pune,South,2944,789.97,9,2025-06-05,Credit Card
+17,Sofa,Furniture,Bangalore,North,4844,1374.24,10,2025-03-24,Cash
+18,Jeans,Clothing,Mumbai,West,2461,274.61,10,2025-01-21,Cash
+19,Notebook,Stationery,Delhi,West,1551,359.75,9,2025-02-12,UPI
+20,Marker,Stationery,Kolkata,East,2147,520.84,7,2025-06-21,Debit Card
+21,Pen,Stationery,Mumbai,South,1491,223.03,2,2025-03-28,UPI
+22,Laptop,Electronics,Mumbai,South,982,143.16,1,2025-03-26,Credit Card
+23,Rice,Groceries,Bangalore,South,4917,621.82,10,2025-05-28,Debit Card
+24,Rice,Groceries,Bangalore,West,1272,151.86,7,2025-04-01,Debit Card
+25,Headphones,Electronics,Pune,South,1306,146.43,6,2025-01-28,UPI
+26,Pen,Stationery,Pune,North,1648,303.85,5,2025-04-29,Debit Card
+27,Notebook,Stationery,Mumbai,South,914,210.61,9,2025-01-04,UPI
+28,Oil,Groceries,Pune,West,4443,634.24,7,2025-01-16,Cash
+29,Oil,Groceries,Kolkata,West,4227,663.85,9,2025-06-19,UPI
+30,Table,Furniture,Mumbai,East,2283,670.61,10,2025-05-19,Cash
+31,Headphones,Electronics,Mumbai,North,4405,883.51,9,2025-02-10,UPI
+32,Headphones,Electronics,Mumbai,South,1056,248.2,4,2025-04-14,Cash
+33,Notebook,Stationery,Delhi,East,3934,910.62,10,2025-05-14,UPI
+34,Shirt,Clothing,Delhi,North,2675,479.25,5,2025-04-28,Cash
+35,Sugar,Groceries,Delhi,South,1319,151.23,4,2025-05-10,Credit Card
+36,Laptop,Electronics,Kolkata,East,3527,553.73,8,2025-05-20,Cash
+37,Pen,Stationery,Mumbai,North,1348,387.94,3,2025-03-09,UPI
+38,Jeans,Clothing,Kolkata,East,2225,541.84,4,2025-06-25,Debit Card
+39,Shirt,Clothing,Mumbai,East,1256,284.93,5,2025-01-12,UPI
+40,Shirt,Clothing,Mumbai,North,4119,866.37,7,2025-05-24,Cash
+41,Sofa,Furniture,Pune,West,795,212.2,10,2025-05-22,UPI
+42,Mobile,Electronics,Pune,South,3487,975.65,1,2025-04-02,Cash
+43,Jacket,Clothing,Pune,South,3829,1128.66,3,2025-03-02,Debit Card
+44,Laptop,Electronics,Kolkata,South,3221,826.11,7,2025-06-21,Credit Card
+45,Sofa,Furniture,Pune,South,1385,244.46,1,2025-05-01,Debit Card
+46,Jeans,Clothing,Delhi,East,2364,341.8,4,2025-04-13,Cash
+47,Jeans,Clothing,Mumbai,North,4673,840.84,9,2025-03-26,Credit Card
+48,Sofa,Furniture,Delhi,East,2674,287.86,10,2025-04-22,Debit Card
+49,Marker,Stationery,Delhi,North,1447,256.18,10,2025-02-18,Debit Card
+50,Headphones,Electronics,Bangalore,North,4910,1165.49,4,2025-04-04,Credit Card
+51,Pen,Stationery,Delhi,West,1520,370.81,5,2025-05-10,Credit Card
+52,Sugar,Groceries,Kolkata,West,2922,616.2,4,2025-04-18,UPI
+53,Marker,Stationery,Delhi,South,2965,537.3,1,2025-03-19,Debit Card
+54,Marker,Stationery,Pune,West,3139,605.82,8,2025-06-22,UPI
+55,Mobile,Electronics,Mumbai,South,4722,1099.14,10,2025-03-27,Credit Card
+56,Chair,Furniture,Chennai,North,1707,179.04,4,2025-05-02,Debit Card
+57,Sugar,Groceries,Bangalore,South,2092,509.76,7,2025-05-07,UPI
+58,Laptop,Electronics,Mumbai,South,3982,572.49,9,2025-04-29,Cash
+59,Rice,Groceries,Delhi,West,4306,1005.52,9,2025-06-02,Debit Card
+60,Pen,Stationery,Delhi,South,1803,448.46,8,2025-04-26,Credit Card
+61,Pen,Stationery,Pune,East,2459,380.95,2,2025-03-15,Credit Card
+62,Jacket,Clothing,Kolkata,South,1160,148.1,4,2025-04-09,UPI
+63,Mobile,Electronics,Mumbai,South,3839,637.95,8,2025-04-17,Debit Card
+64,Sugar,Groceries,Bangalore,North,660,179.09,10,2025-04-08,Credit Card
+65,Jeans,Clothing,Pune,West,3932,816.46,9,2025-06-04,UPI
+66,Jeans,Clothing,Kolkata,West,4478,473.79,6,2025-06-21,UPI
+67,Rice,Groceries,Chennai,North,4875,513.79,7,2025-06-01,Cash
+68,Rice,Groceries,Delhi,South,4282,583.83,5,2025-04-08,Debit Card
+69,Jeans,Clothing,Mumbai,West,3605,561.12,7,2025-03-06,Cash
+70,Notebook,Stationery,Mumbai,North,3366,487.55,2,2025-06-16,UPI
+71,Chair,Furniture,Mumbai,South,1748,258.2,8,2025-06-21,Debit Card
+72,Jeans,Clothing,Delhi,North,1874,414.49,2,2025-02-11,Cash
+73,Jacket,Clothing,Chennai,South,3574,640.93,4,2025-01-20,Cash
+74,Jacket,Clothing,Delhi,West,1491,386.53,10,2025-01-11,Credit Card
+75,Headphones,Electronics,Mumbai,West,3295,337.84,7,2025-05-06,Credit Card
+76,Sugar,Groceries,Delhi,West,1753,327.98,9,2025-06-16,Debit Card
+77,Sugar,Groceries,Delhi,West,2698,443.72,4,2025-01-23,UPI
+78,Sugar,Groceries,Pune,West,3604,602.87,8,2025-03-25,UPI
+79,Jeans,Clothing,Delhi,North,3288,512.7,10,2025-06-29,UPI
+80,Laptop,Electronics,Bangalore,West,3829,757.05,4,2025-06-26,Debit Card
+81,Laptop,Electronics,Kolkata,East,2910,419.97,4,2025-03-20,Debit Card
+82,Marker,Stationery,Delhi,West,3316,613.79,9,2025-03-26,Credit Card
+83,Jeans,Clothing,Mumbai,South,2388,296.43,4,2025-03-22,UPI
+84,Sofa,Furniture,Chennai,East,4466,693.57,10,2025-05-15,Cash
+85,Table,Furniture,Kolkata,South,2363,406.85,5,2025-01-04,Credit Card
+86,Laptop,Electronics,Bangalore,North,2893,692.83,3,2025-06-13,Cash
+87,Pen,Stationery,Mumbai,East,4345,850.5,6,2025-02-17,Debit Card
+88,Laptop,Electronics,Kolkata,North,3782,750.16,10,2025-06-11,UPI
+89,Sofa,Furniture,Chennai,West,2989,349.82,4,2025-01-31,UPI
+90,Pen,Stationery,Bangalore,East,4190,1180.33,5,2025-05-31,Cash
+91,Marker,Stationery,Pune,East,1312,379.85,4,2025-06-10,Cash
+92,Chair,Furniture,Bangalore,West,1923,404.6,3,2025-01-01,Debit Card
+93,Shirt,Clothing,Bangalore,North,2396,377.66,5,2025-06-29,UPI
+94,Jacket,Clothing,Kolkata,South,2120,392.26,9,2025-02-27,Credit Card
+95,Chair,Furniture,Kolkata,East,988,131.59,5,2025-06-02,Debit Card
+96,Mobile,Electronics,Chennai,West,2991,717.68,5,2025-05-09,Debit Card
+97,Headphones,Electronics,Delhi,North,826,229.53,6,2025-06-04,Cash
+98,Sofa,Furniture,Mumbai,South,669,200.64,5,2025-05-28,Debit Card
+99,Marker,Stationery,Bangalore,West,4122,1167.41,3,2025-05-30,Cash
+100,Oil,Groceries,Delhi,West,3845,640.81,2,2025-02-11,Debit Card
